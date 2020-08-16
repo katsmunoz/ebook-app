@@ -1,0 +1,17 @@
+form {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.card-img {
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.ebook-img {
+    margin: 8px 8px 0;
+}
