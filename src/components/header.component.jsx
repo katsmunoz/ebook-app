@@ -8,7 +8,7 @@ const Header = () => (
         <Toolbar >
             <Book className="logo-img" onClick={() => window.location.reload(false)}/>
             &nbsp;&nbsp;
-            <h1>Ebooks for thought</h1>
+            <h1>E-books for thought</h1>
         </Toolbar>
     </AppBar>
 );
