@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # E-books App 📚
 
-Responsive app that allows you to search for topic or theme yout favorite e-books. 
+Responsive app that allows you to search for topic or theme your favorite e-books!
 
 ## Technologies
 
