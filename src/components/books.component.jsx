@@ -43,7 +43,7 @@ const Books = () => {
                  <NoResults />
             ) : (
                 <Container>
-                <Grid container justify="center" spacing={1}>
+                <Grid container justify="center" spacing={1} style={{ marginBottom: 50 }}>
                     <FetchBooks result={ result } />
                 </Grid>
                 </Container>
